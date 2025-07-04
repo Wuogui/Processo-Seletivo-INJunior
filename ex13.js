@@ -29,4 +29,10 @@ function listarTime(time){
     }
 }
 
-
+function calcularPontuacaoMedia(time){
+    let soma = 0
+    for(let i=0; i<time.length; i++){
+        soma += time[1].Pontuação
+    }
+    return soma/time.length
+}
