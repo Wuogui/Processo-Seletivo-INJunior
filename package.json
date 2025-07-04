@@ -1,0 +1,19 @@
+{
+  "name": "processoseletivoinjunior",
+  "version": "1.0.0",
+  "description": "Processo seletivo para injunior",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuogui/Processo-Seletivo-INJunior.git"
+  },
+  "author": "Rodrigo Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wuogui/Processo-Seletivo-INJunior/issues"
+  },
+  "homepage": "https://github.com/Wuogui/Processo-Seletivo-INJunior#readme"
+}
