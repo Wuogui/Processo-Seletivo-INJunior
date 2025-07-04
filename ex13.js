@@ -23,3 +23,10 @@ function buscaPorPosicao(posicao, time){
     }
 }
 
+function listarTime(time){
+    for(let i=0; i<time.length; i++){
+        console.log(time[i])
+    }
+}
+
+
