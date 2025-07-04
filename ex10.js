@@ -23,7 +23,6 @@ do {
             console.log(fila.shift() + " está sendo atendido.")
             break
         case 3:
-            chave = 2
             break
     }
 } while (menuPrincipal != 3)
